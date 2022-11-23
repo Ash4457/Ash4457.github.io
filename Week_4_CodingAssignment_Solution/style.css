@@ -1,0 +1,15 @@
+.head {
+  text-align: center;
+  background-color: rgb(246, 53, 91);
+  color: white;
+  font-family: "Audiowide";
+  font-size: 28px;
+}
+.write {
+  text-align: center;
+  font-family: "Trirong";
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  border-radius: 100px;
+}
